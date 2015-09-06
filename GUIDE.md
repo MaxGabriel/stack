@@ -4,7 +4,7 @@ workflows. This guide will not teach you Haskell, but will also not be looking
 at much code. This guide will not presume prior experience with the Haskell
 packaging system or other build tools.
 
-## What is stack?
+## What is stack?f
 
 stack is a modern build tool for Haskell code. It handles the management of
 your toolchain (including GHC- the Glasgow Haskell Compiler- and- for Windows
@@ -88,7 +88,7 @@ michael@d30748af6d3d:~$ echo 'export PATH=$HOME/.local/bin:$PATH' >> ~/.bashrc
 ## Hello World Example
 
 Now that we've got stack, it's time to put it to work. We're going to create
-a new project fromm a template, and walk through some of the most common
+a new project from a template, and walk through some of the most common
 stack commands that you will need on a frequent basis.
 
 
